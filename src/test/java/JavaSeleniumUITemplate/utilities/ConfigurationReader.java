@@ -1,4 +1,4 @@
-package FootSteps2Brilliance.utilities;
+package JavaSeleniumUITemplate.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;
